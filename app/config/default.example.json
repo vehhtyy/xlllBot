@@ -8,16 +8,16 @@
     "reconnect": true
   },
   "bot": {
-    "username": "",
-    "oauth_token": ""
+    "username": "vehhtyBot",
+    "oauth_token": "oauth:ipxpn5gu4xk4k7m8hcuz7jwv3v3yrq"
   },
   "auth": {
-    "client_id": "",
-    "secret": "",
+    "client_id": "a9xfcuws38tp9zutgfcryhcwo12zcx",
+    "secret": "so0sb6ksws4tpp1lro7lm3ctmegrk9",
     "callback_host": "",
     "callback_url": "/auth/twitch/callback"
   },
   "mongoremote": "mongodb+srv://",
   "clientEndPoint": "http://localhost:1337",
-  "adminUsername": ""
+  "adminUsername": "vehhty_"
 }
